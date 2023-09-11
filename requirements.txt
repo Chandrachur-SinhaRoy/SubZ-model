@@ -1,0 +1,12 @@
+Flask==2.3.2
+Flask_Cors==4.0.0
+joblib==1.2.0
+keras==2.13.1
+matplotlib==3.7.2
+numpy==1.23.2
+pandas==1.5.2
+scikit_learn==1.2.0
+tensorflow==2.13.0
+tensorflow_intel==2.13.0
+Flask==2.3.2
+Flask_Cors==4.0.0
